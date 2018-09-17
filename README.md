@@ -15,6 +15,6 @@ Version 1.0 2018 社区中文翻译版：[Download](https://github.com/BonusClou
 Version 1.1 2018：[Download](https://github.com/BonusCloud/BonusCloud-White-Paper/blob/master/BonusCloud%20White%20Paper%202018%20Version%201.1%20.pdf)
 
 ##### Changelog：
-1. added Notice and Disclaimer
-2. added Distribution Plan
-3. added Risk Disclosure Statement
+（1）added Notice and Disclaimer
+（2）added Distribution Plan
+（3）added Risk Disclosure Statement
