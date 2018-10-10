@@ -1,6 +1,6 @@
 # BonusCloud-White-Paper
 
-#### The latest version download: https://bonuscloud.io/wp.pdf
+#### The latest version download（EN）: https://bonuscloud.io/wp.pdf
  
  
 #### 1.BonusCloud White Paper Version 1.0 2018
