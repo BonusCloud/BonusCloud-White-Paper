@@ -14,7 +14,7 @@ Version 1.0 2018 社区中文翻译版：[Download](https://github.com/BonusClou
 
 Version 1.1 2018：[Download](https://github.com/BonusCloud/BonusCloud-White-Paper/blob/master/BonusCloud%20White%20Paper%202018%20Version%201.1%20.pdf)
 
-Version 1.1 2018 Russia：[Download](https://github.com/BonusCloud/BonusCloud-White-Paper/blob/master/BonusCloud%20White%20Paper%202018%20Version%201.1%20RU.pdf)
+Version 1.1 2018 Russia Community Translation：[Download](https://github.com/BonusCloud/BonusCloud-White-Paper/blob/master/BonusCloud%20White%20Paper%202018%20Version%201.1%20RU.pdf)
 
 ##### Changelog：
 （1）added Notice and Disclaimer
